@@ -604,7 +604,7 @@ chisq.test(gender_strk$stroke,gender_strk$gender)
 
 #The result of the chisq.test show a p-value = 0.79. Therefore the null 
 #hypothesis is not rejected, which means alternative hypothesis is accepted.
-#The analysis concludes that More male died because 
+#The analysis concludes that More male did not die because 
 #of stroke (p = 0.7895)
 
 ##### Q3 - Hypothesis Test ends #####
